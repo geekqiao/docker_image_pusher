@@ -7,3 +7,4 @@
 #
 
 --platform=linux/amd64 portainer/portainer-ce:latest
+neosmemo/memos
