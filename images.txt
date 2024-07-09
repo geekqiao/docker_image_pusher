@@ -6,4 +6,4 @@
 # --platform=linux/arm64 xiaoyaliu/alist
 #
 
---platform=linux/arm64 portainer/portainer-ce:latest
+--platform=linux/amd64 portainer/portainer-ce:latest
