@@ -6,6 +6,7 @@
 # --platform=linux/arm64 xiaoyaliu/alist
 #
 
---platform=linux/amd64 portainer/portainer-ce:latest
-neosmemo/memos
-gcr.io/kaggle-images/python
+# --platform=linux/amd64 portainer/portainer-ce:latest
+# neosmemo/memos
+# gcr.io/kaggle-images/python
+archivebox/archivebox
